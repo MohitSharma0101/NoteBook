@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087987374013",
+    "project_id": "notebook-e300e",
+    "storage_bucket": "notebook-e300e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087987374013:android:02b2ff2aea69467e0564d4",
+        "android_client_info": {
+          "package_name": "com.mohitsharma.notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087987374013-spehlsj9dm4154e15n9b1mnhp6dftsgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcS_xMsOZVgm3M3DC0XPSCUW4UzRKxJOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087987374013-spehlsj9dm4154e15n9b1mnhp6dftsgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
